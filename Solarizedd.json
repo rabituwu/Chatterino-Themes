@@ -1,0 +1,121 @@
+{
+  "colors": {
+    "accent": "#2aa198",
+    "messages": {
+      "backgrounds": {
+        "alternate": "#073642",
+        "regular": "#002b36"
+      },
+      "disabled": "#91073642",
+      "highlightAnimationEnd": "#00e6e6e6",
+      "highlightAnimationStart": "#992aa198",
+      "selection": "#40ffffff",
+      "textColors": {
+        "caret": "#ffffff",
+        "chatPlaceholder": "#657b83",
+        "link": "#2aa198",
+        "regular": "#fdf6e3",
+        "system": "#93A1A1"
+      }
+    },
+    "scrollbars": {
+      "background": "#00000000",
+      "thumb": "#575757",
+      "thumbSelected": "#616161"
+    },
+    "splits": {
+      "background": "#002b36",
+      "dropPreview": "#300094ff",
+      "dropPreviewBorder": "#0094ff",
+      "dropTargetRect": "#002B36ff",
+      "dropTargetRectBorder": "#002B36",
+      "header": {
+        "background": "#073642",
+        "border": "#073642",
+        "focusedBackground": "#073642",
+        "focusedBorder": "#073642",
+        "focusedText": "#FDF6E3",
+        "text": "#fdf6e3"
+      },
+      "input": {
+        "background": "#073642",
+        "text": "#ffffff"
+      },
+      "messageSeperator": "#3c3c3c",
+      "resizeHandle": "#002B36ff",
+      "resizeHandleBackground": "#a6002b36"
+    },
+    "tabs": {
+      "liveIndicator": "#DC322F",
+      "rerunIndicator": "#b58900",
+      "dividerLine": "#6c71c4",
+      "highlighted": {
+        "backgrounds": {
+          "hover": "#dc322f",
+          "regular": "#dc322f",
+          "unfocused": "#dc322f"
+        },
+        "line": {
+          "hover": "#cb4b16",
+          "regular": "#cb4b16",
+          "unfocused": "#cb4b16"
+        },
+        "text": "#fdf6e3"
+      },
+      "newMessage": {
+        "backgrounds": {
+          "hover": "#002B36",
+          "regular": "#002B36",
+          "unfocused": "#002B36"
+        },
+        "line": {
+          "hover": "#002B36",
+          "regular": "#002B36",
+          "unfocused": "#002B36"
+        },
+        "text": "#fdf6e3"
+      },
+      "regular": {
+        "backgrounds": {
+          "hover": "#002B36",
+          "regular": "#002B36",
+          "unfocused": "#002B36"
+        },
+        "line": {
+          "hover": "#002B36",
+          "regular": "#002B36",
+          "unfocused": "#002B36"
+        },
+        "text": "#fdf6e3"
+      },
+      "selected": {
+        "backgrounds": {
+          "hover": "#6c71c4",
+          "regular": "#6c71c4",
+          "unfocused": "#6c71c4"
+        },
+        "line": {
+          "hover": "#268bd2",
+          "regular": "#268bd2",
+          "unfocused": "#268bd2"
+        },
+        "text": "#fdf6e3"
+      }
+    },
+    "window": {
+      "background": "#002B36",
+      "text": "#fdf6e3"
+    }
+  },
+  "metadata": {
+    "iconTheme": "light"
+  },
+  "ctcMeta": {
+    "name": "Solarizedd",
+    "createdAt": "1970-01-01T00:00:00Z",
+    "modifiedAt": "1970-01-01T00:00:00Z",
+    "simpleTabSettings": true,
+    "checkeredRow": true,
+    "messageSeparator": false
+  }
+}
