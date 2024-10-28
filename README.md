@@ -11,4 +11,5 @@ If you want to make ur own: [Chatterino Theme Creator](https://chatterino-theme-
 ![Preview](https://github.com/user-attachments/assets/5c74b167-a780-40fd-ac9e-e552aaf1c2b2)
 
 # Nordicc
-![image](https://github.com/user-attachments/assets/a9e8af8a-4879-41de-93c3-261c9df0a892)
+![image](https://github.com/user-attachments/assets/36deed10-7a61-447c-ad57-a7ca03b406fc)
+
