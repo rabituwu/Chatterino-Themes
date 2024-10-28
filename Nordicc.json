@@ -1,0 +1,121 @@
+{
+  "colors": {
+    "accent": "#5e81ac",
+    "messages": {
+      "backgrounds": {
+        "alternate": "#22262f",
+        "regular": "#2e3440"
+      },
+      "disabled": "#9127323f",
+      "highlightAnimationEnd": "#14000000",
+      "highlightAnimationStart": "#685e81ac",
+      "selection": "#40ffffff",
+      "textColors": {
+        "caret": "#5e81ac",
+        "chatPlaceholder": "#27323F",
+        "link": "#81a1c1",
+        "regular": "#eceff4",
+        "system": "#8c8c8c"
+      }
+    },
+    "scrollbars": {
+      "background": "#512e3440",
+      "thumb": "#5e81ac",
+      "thumbSelected": "#5e81ac"
+    },
+    "splits": {
+      "background": "#2E3440",
+      "dropPreview": "#6e5e81ac",
+      "dropPreviewBorder": "#5e81ac",
+      "dropTargetRect": "#ff2e3440",
+      "dropTargetRectBorder": "#2e3440",
+      "header": {
+        "background": "#434c5e",
+        "border": "#434c5e",
+        "focusedBackground": "#434c5e",
+        "focusedBorder": "#434c5e",
+        "focusedText": "#ECEFF4",
+        "text": "#eceff4"
+      },
+      "input": {
+        "background": "#434C5E",
+        "text": "#ffffff"
+      },
+      "messageSeperator": "#2E3440",
+      "resizeHandle": "#700094ff",
+      "resizeHandleBackground": "#200094ff"
+    },
+    "tabs": {
+      "liveIndicator": "#bf616a",
+      "rerunIndicator": "#ebcb8b",
+      "dividerLine": "#5e81ac",
+      "highlighted": {
+        "backgrounds": {
+          "hover": "#bf616a",
+          "regular": "#bf616a",
+          "unfocused": "#bf616a"
+        },
+        "line": {
+          "hover": "#d08770",
+          "regular": "#d08770",
+          "unfocused": "#d08770"
+        },
+        "text": "#ECEFF4"
+      },
+      "newMessage": {
+        "backgrounds": {
+          "hover": "#27323F",
+          "regular": "#27323F",
+          "unfocused": "#27323F"
+        },
+        "line": {
+          "hover": "#27323F",
+          "regular": "#27323F",
+          "unfocused": "#27323F"
+        },
+        "text": "#ECEFF4"
+      },
+      "regular": {
+        "backgrounds": {
+          "hover": "#27323F",
+          "regular": "#27323F",
+          "unfocused": "#27323F"
+        },
+        "line": {
+          "hover": "#27323F",
+          "regular": "#27323F",
+          "unfocused": "#27323F"
+        },
+        "text": "#ECEFF4"
+      },
+      "selected": {
+        "backgrounds": {
+          "hover": "#5e81ac",
+          "regular": "#5e81ac",
+          "unfocused": "#5e81ac"
+        },
+        "line": {
+          "hover": "#8fbcbb",
+          "regular": "#8fbcbb",
+          "unfocused": "#8fbcbb"
+        },
+        "text": "#ECEFF4"
+      }
+    },
+    "window": {
+      "background": "#27323F",
+      "text": "#eceff4"
+    }
+  },
+  "metadata": {
+    "iconTheme": "light"
+  },
+  "ctcMeta": {
+    "name": "Nordicc",
+    "createdAt": "1970-01-01T00:00:00Z",
+    "modifiedAt": "1970-01-01T00:00:00Z",
+    "simpleTabSettings": true,
+    "checkeredRow": true,
+    "messageSeparator": true
+  }
+}
