@@ -7,4 +7,4 @@ restart and select Theme on Chatterino Settings
 
 If you want to make ur own: [Chatterino Theme Creator](https://chatterino-theme-creator-web.vercel.app)
 
-![Preview](https://github.com/user-attachments/assets/05344d00-9d47-4ccf-8822-27b1b92f6401)
+![Preview](https://github.com/user-attachments/assets/5c74b167-a780-40fd-ac9e-e552aaf1c2b2)
