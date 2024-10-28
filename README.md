@@ -16,3 +16,7 @@ If you want to make ur own: [Chatterino Theme Creator](https://chatterino-theme-
 
 # Monokaii
 ![image](https://github.com/user-attachments/assets/36494054-c632-4a1e-ba2c-0506b43d5631)
+
+# Solarizedd
+![image](https://github.com/user-attachments/assets/ef030dec-76f8-4078-bc9f-0a1b36b4ed35)
+
