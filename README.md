@@ -14,3 +14,5 @@ If you want to make ur own: [Chatterino Theme Creator](https://chatterino-theme-
 # Nordicc
 ![image](https://github.com/user-attachments/assets/36deed10-7a61-447c-ad57-a7ca03b406fc)
 
+# Monokaii
+![image](https://github.com/user-attachments/assets/36494054-c632-4a1e-ba2c-0506b43d5631)
