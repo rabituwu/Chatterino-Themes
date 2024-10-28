@@ -3,8 +3,8 @@
     "accent": "#5e81ac",
     "messages": {
       "backgrounds": {
-        "alternate": "#22262f",
-        "regular": "#2e3440"
+        "alternate": "#1a1e25",
+        "regular": "#22262F"
       },
       "disabled": "#9127323f",
       "highlightAnimationEnd": "#14000000",
@@ -13,7 +13,7 @@
       "textColors": {
         "caret": "#5e81ac",
         "chatPlaceholder": "#27323F",
-        "link": "#81a1c1",
+        "link": "#66D9EF",
         "regular": "#eceff4",
         "system": "#8c8c8c"
       }
