@@ -1,0 +1,121 @@
+{
+  "colors": {
+    "accent": "#FD971F",
+    "messages": {
+      "backgrounds": {
+        "alternate": "#22231e",
+        "regular": "#272822"
+      },
+      "disabled": "#75272822",
+      "highlightAnimationEnd": "#4c272822",
+      "highlightAnimationStart": "#73e6db74",
+      "selection": "#73b7b7b7",
+      "textColors": {
+        "caret": "#ffffff",
+        "chatPlaceholder": "#75715E",
+        "link": "#66D9EF",
+        "regular": "#F8F8F2",
+        "system": "#8c7f7f"
+      }
+    },
+    "scrollbars": {
+      "background": "#00000000",
+      "thumb": "#3E3D32",
+      "thumbSelected": "#75715E"
+    },
+    "splits": {
+      "background": "#272822",
+      "dropPreview": "#42fd971f",
+      "dropPreviewBorder": "#FD971F",
+      "dropTargetRect": "#000094ff",
+      "dropTargetRectBorder": "#000094ff",
+      "header": {
+        "background": "#272822",
+        "border": "#383838",
+        "focusedBackground": "#3E3D32",
+        "focusedBorder": "#3E3D32",
+        "focusedText": "#F8F8F2",
+        "text": "#F8F8F2"
+      },
+      "input": {
+        "background": "#3E3D32",
+        "text": "#ffffff"
+      },
+      "messageSeperator": "#3c3c3c",
+      "resizeHandle": "#700094ff",
+      "resizeHandleBackground": "#200094ff"
+    },
+    "tabs": {
+      "liveIndicator": "#F92672",
+      "rerunIndicator": "#E6DB74",
+      "dividerLine": "#9f6f3e",
+      "highlighted": {
+        "backgrounds": {
+          "hover": "#4f5600",
+          "regular": "#4f5600",
+          "unfocused": "#4f5600"
+        },
+        "line": {
+          "hover": "#dbff28",
+          "regular": "#dbff28",
+          "unfocused": "#dbff28"
+        },
+        "text": "#eeeeee"
+      },
+      "newMessage": {
+        "backgrounds": {
+          "hover": "#3E3D32",
+          "regular": "#3E3D32",
+          "unfocused": "#3E3D32"
+        },
+        "line": {
+          "hover": "#3E3D32",
+          "regular": "#3E3D32",
+          "unfocused": "#3E3D32"
+        },
+        "text": "#F8F8F2"
+      },
+      "regular": {
+        "backgrounds": {
+          "hover": "#3E3D32",
+          "regular": "#3E3D32",
+          "unfocused": "#3E3D32"
+        },
+        "line": {
+          "hover": "#3E3D32",
+          "regular": "#3E3D32",
+          "unfocused": "#3E3D32"
+        },
+        "text": "#F8F8F2"
+      },
+      "selected": {
+        "backgrounds": {
+          "hover": "#504e3f",
+          "regular": "#504e3f",
+          "unfocused": "#504e3f"
+        },
+        "line": {
+          "hover": "#FD971F",
+          "regular": "#FD971F",
+          "unfocused": "#FD971F"
+        },
+        "text": "#F8F8F2"
+      }
+    },
+    "window": {
+      "background": "#3E3D32",
+      "text": "#F8F8F2"
+    }
+  },
+  "metadata": {
+    "iconTheme": "light"
+  },
+  "ctcMeta": {
+    "name": "Monokai",
+    "createdAt": "1970-01-01T00:00:00Z",
+    "modifiedAt": "1970-01-01T00:00:00Z",
+    "simpleTabSettings": true,
+    "checkeredRow": true,
+    "messageSeparator": true
+  }
+}
