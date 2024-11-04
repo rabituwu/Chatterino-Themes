@@ -9,7 +9,7 @@
       "disabled": "#a1000000",
       "highlightAnimationEnd": "#02000000",
       "highlightAnimationStart": "#3500857f",
-      "selection": "#40777d7d",
+      "selection": "#7a078061",
       "textColors": {
         "caret": "#ffffff",
         "chatPlaceholder": "#080808",
@@ -30,23 +30,23 @@
       "dropTargetRect": "#ff080808",
       "dropTargetRectBorder": "#000000",
       "header": {
-        "background": "#0C0C0C",
+        "background": "#101010",
         "border": "#000000",
-        "focusedBackground": "#0c0c0c",
+        "focusedBackground": "#101010",
         "focusedBorder": "#000000",
         "focusedText": "#00f1ff",
-        "text": "#ffffff"
+        "text": "#00F1FF"
       },
       "input": {
         "background": "#080808",
         "text": "#ffffff"
       },
-      "messageSeperator": "#111111",
+      "messageSeperator": "#070707",
       "resizeHandle": "#70000000",
       "resizeHandleBackground": "#20000000"
     },
     "tabs": {
-      "liveIndicator": "#cb0000",
+      "liveIndicator": "#ff0101",
       "rerunIndicator": "#979422",
       "dividerLine": "#080808",
       "highlighted": {
@@ -56,9 +56,9 @@
           "unfocused": "#500909"
         },
         "line": {
-          "hover": "#080808",
-          "regular": "#080808",
-          "unfocused": "#080808"
+          "hover": "#101010",
+          "regular": "#101010",
+          "unfocused": "#101010"
         },
         "text": "#eeeeee"
       },
@@ -73,7 +73,7 @@
           "regular": "#080808",
           "unfocused": "#080808"
         },
-        "text": "#B5B5B5"
+        "text": "#FFFFFF"
       },
       "regular": {
         "backgrounds": {
@@ -86,18 +86,18 @@
           "regular": "#080808",
           "unfocused": "#080808"
         },
-        "text": "#b5b5b5"
+        "text": "#FFFFFF"
       },
       "selected": {
         "backgrounds": {
-          "hover": "#101010",
-          "regular": "#101010",
-          "unfocused": "#101010"
+          "hover": "#0E99A2",
+          "regular": "#0E99A2",
+          "unfocused": "#0E99A2"
         },
         "line": {
-          "hover": "#0e99a2",
-          "regular": "#0e99a2",
-          "unfocused": "#0e99a2"
+          "hover": "#080808",
+          "regular": "#080808",
+          "unfocused": "#080808"
         },
         "text": "#ffffff"
       }
@@ -112,8 +112,8 @@
   },
   "ctcMeta": {
     "name": "Darkerr-notfullblack",
-    "createdAt": "1970-01-01T00:00:00Z",
-    "modifiedAt": "1970-01-01T00:00:00Z",
+    "createdAt": "2024-10-28T01:03:14.889Z",
+    "modifiedAt": "2024-11-04T00:31:39.491Z",
     "simpleTabSettings": true,
     "checkeredRow": true,
     "messageSeparator": true
